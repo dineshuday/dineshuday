@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dineshuday-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dineshuday)  
 [![GitHub](https://img.shields.io/badge/GitHub-dineshuday-black?style=flat-square&logo=github)](https://github.com/dineshuday)  
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 📍 Toronto, ON | 📧 dinesh.uday@outlook.com
 
 ---
