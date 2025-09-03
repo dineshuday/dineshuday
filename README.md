@@ -26,7 +26,7 @@ I'm a passionate DevOps Engineer with expertise in cloud platforms, infrastructu
 ## 💼 Experience
 
 ### DevOps Engineer | Elestio  
-*May 2025 – Present*  
+*May 2025 – Aug 2025*  
 - Troubleshoot and maintain high availability for open-source applications on customer-managed instances.  
 - Automate routine tasks using Linux and Bash scripting.  
 - Support custom Docker Compose setups and environment variable configurations.
