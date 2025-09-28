@@ -58,6 +58,7 @@ SRM Institute of Science and Technology (2015 – 2019)
 
 ## 📜 Certifications
 
+- GCP Associate Cloud Engineer
 - AWS Certified Cloud Practitioner  
 - SAFe 4 Practitioner
 
