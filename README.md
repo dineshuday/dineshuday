@@ -13,7 +13,7 @@ I'm a passionate DevOps Engineer with expertise in cloud platforms, infrastructu
 
 ## 🛠 Skills
 
-- **Cloud Platforms:** AWS (EC2, S3, RDS, Lambda, IAM, VPC, CloudFormation), Azure, GCP  
+- **Cloud Platforms:** AWS (EC2, S3, RDS, Lambda, IAM, VPC, CloudFormation), GCP (GCE, GKE, GCS, IAM), Azure
 - **Containers & Orchestration:** Docker, Kubernetes, Helm  
 - **Infrastructure as Code:** Terraform, CloudFormation, Ansible  
 - **CI/CD Tools:** Jenkins, GitHub Actions, GitLab CI, Argo CD  
