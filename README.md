@@ -29,6 +29,10 @@ I'm a passionate DevOps Engineer with expertise in cloud platforms, infrastructu
 
 ## 💼 Experience
 
+### Cloud Engineer | Cognizant  
+*Feb 2026 – Present*  
+- Details Soon.
+
 ### DevOps Engineer | Elestio  
 *May 2025 – Aug 2025*  
 - Troubleshoot and maintain high availability for open-source applications on customer-managed instances.  
