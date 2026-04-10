@@ -31,7 +31,17 @@ I'm a passionate DevOps Engineer with expertise in cloud platforms, infrastructu
 
 ### Cloud Engineer | Cognizant  
 *Feb 2026 – Present*  
-- Details Soon.
+Client: Google Cloud Marketplace (Onboarding & Integration)
+
+- Marketplace Engineering: Lead technical onboarding for SaaS and VM products on Google Cloud Marketplace, managing the end-to-end discovery, procurement, and deployment lifecycle for third-party partners.
+
+- Infrastructure as Code (IaC): Design and debug complex Terraform and Deployment Manager templates to automate the distribution of licensed images and VM deployment packages.
+
+- SaaS & Billing Integration: Architect technical integrations using GCP Pub/Sub, Service Accounts, and Service Control APIs to enable automated billing and usage reporting for enterprise partners.
+
+- Security & Compliance: Perform vulnerability scanning (CVE fixes) and troubleshoot image/disk issues to ensure all Marketplace products meet Google’s production security standards.
+
+- Cloud Operations: Resolve high-priority issues related to license image attachments, backup mismatches, and Private/Public pricing configurations for global sellers.
 
 ### DevOps Engineer | Elestio  
 *May 2025 – Aug 2025*  
